@@ -5,7 +5,6 @@ import java.applet.*;
 /*
 <applet code="DialogDemo" width=250 height=250>
 </applet>
-*/
 // Create a subclass of Dialog.
 class SampleDialog extends Dialog implements ActionListener {
 SampleDialog(Frame parent, String title) {
